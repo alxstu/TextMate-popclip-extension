@@ -1,0 +1,1 @@
+printf "%s\n" "$POPCLIP_TEXT" | open -f -a TextMate
